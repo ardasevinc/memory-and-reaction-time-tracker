@@ -1,0 +1,23 @@
+body {
+  float: center;
+  background-color: #343434;
+  align-content: center; }
+
+#hold_temp {
+  visibility: hidden; }
+
+button {
+  background-color: #aaa;
+  display: inline-block;
+  padding: 20px; }
+
+.button_text_CSS {
+  color: #aaa; }
+
+.text_shown_CSS {
+  font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: #aaa;
+  text-align: center; }
+
+/*# sourceMappingURL=stylesheet.css.map */

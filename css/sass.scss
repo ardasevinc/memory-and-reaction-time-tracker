@@ -1,0 +1,36 @@
+$bg-c: #343434;
+
+$block-color: #aaa;
+
+$text-color: #aaa;
+
+body {
+  float: center;
+  background-color: $bg-c;
+  align-content: center;
+}
+
+#hold_temp {
+  visibility: hidden;
+}
+
+button {
+  background-color: $block-color;
+  display: inline-block;
+
+  padding: 20px;
+  //margin-left: 10%;
+}
+
+
+.button_text_CSS {
+  color: $text-color;
+}
+
+.text_shown_CSS {
+    font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: $text-color;
+    text-align: center;
+
+}
